@@ -49,7 +49,7 @@ var omdb = function () {
     })
     setTimeout(function() {
         ask();
-    }, 3000)
+    }, 5000)
 }
 
 var tweets = function () {
@@ -73,7 +73,7 @@ var tweets = function () {
     });
     setTimeout(function() {
         ask();
-    }, 3000)
+    }, 5000)
 }
 
 var getSong = function () {
@@ -93,7 +93,7 @@ var getSong = function () {
     });
     setTimeout(function() {
         ask();
-    }, 3000)
+    }, 5000)
 }
 
 var ask = function () {
